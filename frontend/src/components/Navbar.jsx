@@ -60,7 +60,7 @@ const Navbar = ({ totalQuantity, totalPrice }) => {
                             aria-expanded="false"
                         >
                             <img
-                                src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava1-bg.webp"
+                                src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png"
                                 className="rounded-circle"
                                 height="28"
                                 alt="Portrait of a Woman"
